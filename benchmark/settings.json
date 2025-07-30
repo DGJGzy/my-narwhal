@@ -1,16 +1,16 @@
 {
     "key": {
-        "name": "aws",
-        "path": "/Users/alberto/.ssh/aws"
+        "name": "DGJG1",
+        "path": "/Users/dgjg/.ssh/aws"
     },
     "port": 5000,
     "repo": {
-        "name": "narwhal",
-        "url": "https://github.com/asonnino/narwhal",
+        "name": "my-narwhal",
+        "url": "https://github.com/DGJGzy/my-narwhal.git",
         "branch": "master"
     },
     "instances": {
-        "type": "m5d.8xlarge",
+        "type": "m5d.xlarge",
         "regions": ["us-east-1", "eu-north-1", "ap-southeast-2", "us-west-1", "ap-northeast-1"]
     }
 }

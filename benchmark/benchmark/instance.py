@@ -113,9 +113,7 @@ class InstanceManager:
             Filters=[
                 {
                     "Name": "description",
-                    "Values": [
-                        "Canonical, Ubuntu, 22.04 LTS, amd64 jammy image build on 2023-09-19"
-                    ],
+                    "Values": ["Canonical, Ubuntu, 20.04, amd64 focal image"]
                 }
             ]
         )
